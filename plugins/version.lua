@@ -1,9 +1,10 @@
 do
 
 function run(msg, matches)
-  return 'bilakh '.. VERSION .. [[ 
-  Checkout bilakh.com :D
-  GNU GPL v2 license.]]
+  return 'telemagma bot '.. VERSION .. [[ 
+  amir/amir/abas
+  version:1.1
+  باتشکر از یاگوپ
 end
 
 return {
